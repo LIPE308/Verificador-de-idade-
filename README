@@ -1,0 +1,16 @@
+# Verificador de Idade
+
+Projeto simples feito para praticar JavaScript.
+
+## Tecnologias
+- HTML
+- CSS
+- JavaScript
+
+## Funcionalidades
+- Validação de idade
+- Classificação por faixa etária
+- Evento com tecla ENTER
+
+## Autor
+João Filipe (LIPE308)
